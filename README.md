@@ -11,7 +11,7 @@ Grand Valley State University | Professor Jiaxin Du | April 2026
 
 Artie Bowman, Mohammad Aziz Boufaied, Kennedy Comstock, Nurudeen Showole
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bowmanar-gvsu/lorcana-kdd-analysis/blob/main/Lorcana_KDD_WhatWins_vs_WhatSells_Final.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bowmanar-gvsu/lorcana-kdd-analysis/blob/main/Lorcana_KDD_WhatWins_vs_WhatSells_Final.ipynb) [![Paper](https://img.shields.io/badge/Paper-Download-blue)](https://github.com/bowmanar-gvsu/lorcana-kdd-analysis/raw/main/paper/Lorcana_KDD_Paper_V9_Final.docx)
 
 ## Abstract
 
