@@ -9,7 +9,7 @@ Grand Valley State University | Professor Jiaxin Du | April 2026
 
 ## Authors
 
-Artie Bowman, Mohammad Aziz Boufaied, Kennedy Comstock, Nurudeen Showole
+[Artie Bowman](https://github.com/artiebowman), [Mohammad Aziz Boufaied](https://github.com/azizboufaied), [Kennedy Comstock](https://github.com/comstock-ctrl), Nurudeen Showole
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/artiebowman/lorcana-tcg-what-wins-vs-what-sells/blob/main/Bowman_et_al_2026_Lorcana_KDD_Notebook.ipynb) [![Paper](https://img.shields.io/badge/Paper-Open-blue)](https://github.com/artiebowman/lorcana-tcg-what-wins-vs-what-sells/blob/main/paper/Bowman_et_al_2026_What_Wins_vs_What_Sells_Lorcana_KDD.pdf)
 
