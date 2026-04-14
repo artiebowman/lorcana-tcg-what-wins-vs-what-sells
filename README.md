@@ -105,7 +105,7 @@ We introduce a **dual-axis SHAP framework** comparing feature importance for com
 ### Novel Contributions
 1. **Dual-axis SHAP** — Side-by-side comparison of competitive vs. price feature importance
 2. **Sleeper Card Index (SCI)** — Tournament-based metric: competitive percentile rank − price percentile rank
-3. **Near-random AUC as balance evidence** — Low predictive accuracy reframed as game design validation
+3. **Near-random AUC as balance evidence** — Near-random AUC as balance evidence — Low predictive accuracy demonstrates healthy game design where player skill dominates over deck composition
 4. **Custom dual-ink patching** — Recovered ink assignments for 102/121 dual-ink cards missing from API
 
 ## Running the Notebook
@@ -134,7 +134,7 @@ The authors thank Prof. Jiaxin Du for valuable feedback and for encouraging publ
 
 ## License
 
-This project is for academic purposes. Data sourced from Lorcast API, inkdecks.com, and tcgcsv.com under their respective terms of service. Disney Lorcana is a trademark of Disney/Ravensburger.
+This project began as academic research and is being developed for publication and community use. Data sourced from Lorcast API, inkdecks.com, and tcgcsv.com under their respective terms of service. Disney Lorcana is a trademark of Disney/Ravensburger.
 
 ## Citation
 
